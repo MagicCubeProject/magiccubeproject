@@ -1,1 +1,3 @@
-# magiccubeproject
+# Magic Cube Project
+
+Test
